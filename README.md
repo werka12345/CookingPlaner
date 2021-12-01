@@ -19,4 +19,5 @@ Python version: 3.8
 * Precise data on the number of products needed to make a certain number of dishes
 * Fast ingredient converter
 ## Database
-![image](https://user-images.githubusercontent.com/94456351/144229420-5b060c6f-a7ba-425c-ad5c-22609c235832.png)
+![image](https://user-images.githubusercontent.com/94456351/144229752-34b43446-7515-4b1b-a231-67cb3b5ffad8.png)
+
