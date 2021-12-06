@@ -5,6 +5,7 @@
 * [Technologies](#technologies)
 * [Features](#features)
 * [Database](#database)
+* [Workflow](#workflow)
 ## General info
 This project is used to calculate the amount of products needed to cook a dish for a certain number of people.
 ## My needs
@@ -25,3 +26,5 @@ The datbase was created as an Excel file. It contains the ID numbers of the dish
 
 ![image](https://user-images.githubusercontent.com/94456351/144229752-34b43446-7515-4b1b-a231-67cb3b5ffad8.png)
 
+## Workflow
+1.Initiate the project:
