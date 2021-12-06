@@ -15,6 +15,8 @@ We want our system to support us in:
 ## Technologies
 Project is created with:
 Python version: 3.8
+Jupyter
+Excel 
 ## Features
 * Precise data on the number of products needed to make a certain number of dishes
 * Fast ingredient converter
