@@ -29,5 +29,6 @@ The datbase was created as an Excel file. It contains the ID numbers of the dish
 
 ## Workflow
 1.Initiate the project:
+
 At the beginning you have to start a python or jupyter dialog, then you have to paste the code you received.
 After entering the code and clicking enter, another line starts under the name "Welcome to our CookingPlaner !". Under the line appears a message "Enter the number of portions", you have to enter the number of people for whom the dish will be prepared. Then you click enter and the command "Enter dish number" appears again. At this point, you must select the ID number of your dish you wish to prepare from the database. Once this has been done, the message "Here's what you need:" appears and the number of ingredients needed in grams is displayed.
